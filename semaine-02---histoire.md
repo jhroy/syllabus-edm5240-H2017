@@ -26,7 +26,7 @@ Enfin, je vous montrerai un des outils dont nous nous servirons au cours de la s
 
 Bref, comme tout ce qui touche l'informatique, 	c'est un joyeux capharnaüm et on va éviter bien des problèmes de compatibilité en utilisant tous le même environnement de développement. C'est ce que propose Cloud9.
 
-Abonnez-vous y (c'est gratuit) avant la fin de la semaine (voir la section [travaux](travaux.md) pour les détails).
+Abonnez-vous y (c'est gratuit) avant la fin de la semaine (voir la section [travaux](travaux.md#abonnement-à-cloud9) pour les détails).
 
 ---
 
