@@ -12,7 +12,6 @@
 | Twitter | [@jeanhuguesroy](https://twitter.com/jeanhuguesroy) |
 | Site web perso | [jhroy.ca](https://jhroy.ca) |
 | Local du cours | J-1330 |
-|||
 
 ![](/assets/octochat.png)
 
