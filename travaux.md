@@ -28,7 +28,12 @@ Postez-le avant 23h59, le 13 février 2017.
 ##Moissonnage de mi-session
 Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Github. Placez-le dans un *«&nbsp;repo&nbsp;»* que vous appellerez **EDM5240-moisson**.
 
-**Tombée**&nbsp;: avant 23h59 le 12 mars 2017.
+**Tombée**&nbsp;: avant 23h59 le 5 mars 2017.
+
+##Devoir #3
+Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
+
+Postez-le avant 23h59, le 12 mars 2017.
 
 ## Rendez-vous durant les semaines de tutorat
 
