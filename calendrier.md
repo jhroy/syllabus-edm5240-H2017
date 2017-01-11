@@ -16,8 +16,8 @@ En voici le résumé&nbsp;:
 | [06](/semaine-06---python-3.md)| 15 févr. | Python 3| |
 | [07](/semaine-07---python-4.md)| 22 févr. | Python 4| |
 | [*08*](/semaine-08---relâche.md)| *1<sup>er</sup> mars* | *Semaine d'activités libres*| Script python |
-| [09](/semaine-09---pandas-1.md)| 8 mars | Pandas 1 | |
-| [10](/semaine-10---pandas-2.md)| 15 mars | Pandas 2| Devoir #3 |
+| [09](/semaine-09---pandas-1.md)| 8 mars | Pandas 1 | Devoir #3 |
+| [10](/semaine-10---pandas-2.md)| 15 mars | Pandas 2| |
 | [11](/semaine-11---visualisation-1.md)| 22 mars | Visualisation 1 | |
 | [12](/semaine-12---visualisation-2.md)| 29 mars | Visualisation 2 | |
 | [13](/semaine-13---tutorat-1.md)| 5 avril | Tutorat 1 | Rendez-vous |
