@@ -8,6 +8,8 @@ Comme je l'indiquais un peu plus tôt, [pandas](http://pandas.pydata.org/) est u
 
 On va en voir toute la puissance en interrogeant des bases de données trop lourdes pour être analysées avec un tableur comme *Excel* ou *Calc*.
 
+À la fin du cours, je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée dans la section [travaux](travaux.md#devoir-3).
+
 -----
 
 #####Retour au [calendrier](/calendrier.md)
