@@ -6,7 +6,7 @@
 
 Dans notre monde numérique, les sources documentaires des journalistes sont, pour l'essentiel, des bases de données. C'est ainsi que d'y puiser est de plus en plus considéré comme une compétence fondamentale du métier.
 
-Pensez-y. Tout, ou presque, aujourd'hui, est dans une base de données&nbsp;: vos choix de cours, votre compte de banque, votre dossier médical, les contrats de votre municipalité, votre journal, vos interactions sur les médias sociaux, etc. C'est ce qui fait que les *«&nbsp;news-getters&nbsp;»* de demain sont ceux qui seront capables d'aller chercher l'information numérique dans les bases de données où elle se trouve.
+Pensez-y. Tout, ou presque, aujourd'hui, se trouve dans une base de données&nbsp;: vos choix de cours, votre compte de banque, votre dossier médical, les contrats de votre municipalité, votre journal, vos interactions sur les médias sociaux, etc. C'est ce qui fait que les *«&nbsp;news-getters&nbsp;»* de demain sont ceux qui seront capables d'aller chercher l'information numérique dans les bases de données où elle se trouve.
 
 Ce cours va vous y aider en vous montrant quelques-unes des technologies de l'information qui peuvent être appliquées au journalisme.<br>
 Il aurait pu s'intituler _«&nbsp;Datajournalisme&nbsp;»_ ou _«&nbsp;Journalisme de données&nbsp;»_. Mais nous craignions que cette appellation vieillisse mal, un peu comme _«&nbsp;Journalisme assisté par ordinateur&nbsp;»_, qui fait très 1990.
