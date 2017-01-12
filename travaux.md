@@ -49,7 +49,10 @@ Pour votre projet final, vous avez deux options. Vous pouvez faire&nbsp;:
 - un **outil**
 
 Si vous choisissez l'**option reportage**, vous pouvez le faire sur un **sujet** de votre choix (conditonnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage&nbsp;: il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.<br>
-La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner, traiter ou visualiser des données.
+La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner, traiter ou visualiser des données.<br>
+Votre reportage devra également comprendre au moins une entrevue avec un expert, un témoin, ou tout autre intervenant en mesure de valider ou d'incarner ce que racontent les données dans votre reportage.
+
+L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit&nbsp;: «&nbsp;Eille! Ce serait cool si on pouvait faire telle affaire&nbsp;» Eh bien, allez-y! Faites-la! Vous êtes capables! *Yes You Can*, pour paraphraser celui qui est président des États-Unis pour quelques jours encore.
 
 ## *Making-of*
 
