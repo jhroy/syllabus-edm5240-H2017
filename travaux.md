@@ -9,7 +9,7 @@ Il suffit de me prouver que vous avez votre compte en vous rendant sur la page s
 
 
 ##Abonnement à Github
-Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«&nbsp;fork&nbsp;»*) de mon répertoire (*«&nbsp;repo&nbsp;»*) **syllabus-edm5240-H2017**.
+Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«&nbsp;fork&nbsp;»*) de mon répertoire (*«&nbsp;repo&nbsp;»*) **syllabus-edm5240-H2017**. Vous trouverez, bien entendu, mon répertoire sur mon compte Github. Mon pseudonyme est **jhroy**.
 
 ![](/assets/fork.png)
 
