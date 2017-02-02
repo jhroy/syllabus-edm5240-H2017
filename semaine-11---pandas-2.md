@@ -1,5 +1,5 @@
-# Cours 10 - Pandas 2
-### 15 mars 2017
+# Cours 11 - Pandas 2
+### 22 mars 2017
 -----
 
 ![](assets/logo-jupyter.png)

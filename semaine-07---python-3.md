@@ -1,5 +1,5 @@
-# Cours 06 - Python 3
-### 15 février 2017
+# Cours 07 - Python 3
+### 22 février 2017
 -----
 
 ![](/assets/dupre-moisson.jpg)

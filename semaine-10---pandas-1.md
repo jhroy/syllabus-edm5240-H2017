@@ -1,5 +1,5 @@
-# Cours 09 - Pandas 1
-### 8 mars 2017
+# Cours 10 - Pandas 1
+### 15 mars 2017
 -----
 
 ![](assets/pandas_logo.png)

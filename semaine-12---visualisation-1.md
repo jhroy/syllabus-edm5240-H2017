@@ -1,5 +1,5 @@
-# Cours 11 - Visualisation 1
-### 22 mars 2017
+# Cours 12 - Visualisation 1
+### 29 mars 2017
 -----
 
 Outils simples de visualisation interactive, dont:

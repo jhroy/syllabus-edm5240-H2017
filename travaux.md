@@ -18,27 +18,27 @@ Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23
 ##[Devoir #1](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
 
-Postez-le avant 23h59, le 6 février 2017.
+Postez-le avant 23h59, le 13 février 2017.
 
 ##Devoir #2
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
 
-Postez-le avant 23h59, le 13 février 2017.
+Postez-le avant 23h59, le 20 février 2017.
 
 ##Moissonnage de mi-session
 Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Github. Placez-le dans un *«&nbsp;repo&nbsp;»* que vous appellerez **EDM5240-moisson**.
 
-**Tombée**&nbsp;: avant 23h59 le 6 mars 2017.
+**Tombée**&nbsp;: avant 23h59 le 13 mars 2017.
 
 ##Devoir #3
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
 
-Postez-le avant 23h59, le 13 mars 2017.
+Postez-le avant 23h59, le 20 mars 2017.
 
-## Rendez-vous durant les semaines de tutorat
+## Rendez-vous durant la semaine de tutorat
 
-Je veux vous rencontrer le plus tôt possible dans la préparation de votre projet final afin de bien vérifier si votre démarche fait du sens et, bien sûr, afin de vous aider au mieux de mes capacités. Au moins une rencontre de 30 minutes maximum est obligatoire et vaut quatre points.<br>
-Trois jours sont réservés à cette fin&nbsp;: les 5, 7 et 12 avril 2017. Vous pouvez réserver votre période dès maintenant à partir de [ce système en ligne](https://taemio-free.10to8.com).<br>
+Je veux vous rencontrer le plus tôt possible dans la préparation de votre projet final afin de bien vérifier si votre démarche fait du sens et, bien sûr, afin de vous aider au mieux de mes capacités. Une rencontre de 30 minutes maximum est obligatoire et vaut quatre points.<br>
+Deux jours sont réservés à cette fin (la levée du cours du 1<sup>er</sup> février m'a forcé à réduire ce nombre à deux, alors que trois périodes étaient initialement prévues)&nbsp;: les 7 et 12 avril 2017. Vous pouvez réserver votre période dès maintenant à partir de [ce système en ligne](https://taemio-free.10to8.com).<br>
 Je suis bien entendu disponible pour toute autre rencontre que vous jugerez nécessaire.
 
 ##Projet final

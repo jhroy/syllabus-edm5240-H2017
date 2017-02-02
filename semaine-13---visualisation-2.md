@@ -1,5 +1,5 @@
-# Cours 12 - Visualisation 2
-### 29 mars 2017
+# Cours 13 - Visualisation 2
+### 5 avril 2017
 -----
 
 On poursuit avec différents exercices dans Carto.

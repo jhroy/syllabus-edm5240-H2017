@@ -1,5 +1,5 @@
-# Cours 05 - Python 2
-### 8 février 2017
+# Cours 06 - Python 2
+### 15 février 2017
 -----
 
 On poursuit notre apprentissage du langage Python:

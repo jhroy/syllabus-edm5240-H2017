@@ -1,5 +1,5 @@
-# Cours 04 - Python 1
-### 1er février 2017
+# Cours 05 - Python 1
+### 8 février 2017
 -----
 
 ![](/assets/python.png "Le langage python")
