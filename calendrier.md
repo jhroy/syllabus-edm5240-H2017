@@ -10,9 +10,9 @@ En voici le résumé&nbsp;:
 |---|---|---|---|
 | [01](/semaine-01---syllabus.md)| 11 janv. | Syllabus | |
 | [02](/semaine-02---histoire.md)| 18 janv. | Histoire du «&nbsp;journalisme quantitatif&nbsp;»| Abonnement à Cloud9|
-| [03](/semaine-03---unix.md)| 25 janv. | Intro à UNIX | Abonnement à Github |
+| [03](/semaine-03---unix.md)| 25 janv. | Intro à UNIX | |
 | [04](/semaine-04---python-1.md)| 1<sup>er</sup> févr. | *cours levé* | |
-| [05](/semaine-05---python-2.md)| 8 févr. | Python 1 | Devoir #1 |
+| [05](/semaine-05---python-2.md)| 8 févr. | Python 1 | Abonnement à Github + Devoir #1 |
 | [06](/semaine-06---python-3.md)| 15 févr. | Python 2 | Devoir #2 |
 | [07](/semaine-07---python-4.md)| 22 févr. | Python 3  | |
 | [*08*](/semaine-08---relâche.md)| *1<sup>er</sup> mars* | *Semaine d'activités libres*| |

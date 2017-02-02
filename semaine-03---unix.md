@@ -21,12 +21,4 @@ Vous pourrez faire les exercices en classe avec *Cloud9* ou encore avec l'applic
 
 -----
 
-##Github
-
-![](/assets/logo-github.png)
-
-À la fin du cours, je vous montrerai un autre outil qui sera très utile tout au long de la session&nbsp;: le système _**git**_ avec [Github](http://github.com). Je vais vous demander de vous y abonner (ici encore, c'est gratuit) et de faire un petit devoir dont vous trouverez les détails dans la section [travaux](travaux.md#abonnement-à-github).
-
------
-
 #####Retour au [calendrier](/calendrier.md)

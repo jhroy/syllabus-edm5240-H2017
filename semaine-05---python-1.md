@@ -2,6 +2,14 @@
 ### 8 février 2017
 -----
 
+##Github
+
+![](/assets/logo-github.png)
+
+Avant de plonger dans Python, je vous montrerai un autre outil qui sera très utile tout au long de la session&nbsp;: le système _**git**_ avec [Github](http://github.com). Je vais vous demander de vous y abonner (ici encore, c'est gratuit) et de faire un mini devoir dont vous trouverez les détails dans la section [travaux](travaux.md#abonnement-à-github).
+
+-----
+
 ![](/assets/python.png "Le langage python")
 
 À partir de votre compte sur Cloud9, vous allez tremper vos orteils dans le langage de programmation [Python](https://fr.wikipedia.org/wiki/Python_(langage)). On va commencer par les concepts de base:

@@ -13,7 +13,7 @@ Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«
 
 ![](/assets/fork.png)
 
-Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le 30 janvier 2017.
+Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 8 février 2017.
 
 ##[Devoir #1](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
