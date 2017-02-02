@@ -14,7 +14,7 @@
     * [Semaine 08 - Relâche](semaine-08---relâche.md)
     * [Semaine 09 - Python 4](semaine-09---python-4.md)
     * [Semaine 10 - Pandas 1](semaine-10---pandas-1.md)
-    * [Semaine 11 - Pandas 2](semaine-11---pandas-1.md)
+    * [Semaine 11 - Pandas 2](semaine-11---pandas-2.md)
     * [Semaine 12 - Visualisation 1](semaine-12---visualisation-1.md)
     * [Semaine 13 - Visualisation 2](semaine-13---visualisation-2.md)
     * [Semaine 14 - Tutorat](semaine-14---tutorat.md)
