@@ -15,5 +15,6 @@ Vous devrez rédiger un script python qui moissonne des données d'un site de vo
 - Produire un fichier CSV.
 
 Plus de détails dans la section [travaux](/travaux.md#moissonnage-de-mi-session).
+
 -----
 #####Retour au [calendrier](/calendrier.md)
