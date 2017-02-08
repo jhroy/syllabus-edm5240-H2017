@@ -15,12 +15,12 @@ Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«
 
 Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 8 février 2017.
 
-##[Devoir #1](devoir1.md)
+##[Devoir 1](devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
 
 Postez-le avant 23h59, le 13 février 2017.
 
-##Devoir #2
+##Devoir 2
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
 
 Postez-le avant 23h59, le 20 février 2017.
@@ -30,7 +30,7 @@ Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Gi
 
 **Tombée**&nbsp;: avant 23h59 le 13 mars 2017.
 
-##Devoir #3
+##Devoir 3
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
 
 Postez-le avant 23h59, le 20 mars 2017.
