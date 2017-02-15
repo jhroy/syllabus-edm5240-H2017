@@ -20,7 +20,7 @@ Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus
 
 Postez-le avant 23h59, le 13 février 2017.
 
-##Devoir 2
+##[Devoir 2](devoir2.md)
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
 
 Postez-le avant 23h59, le 20 février 2017.
