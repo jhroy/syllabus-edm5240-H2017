@@ -17,7 +17,7 @@ De toutes les variables à calculer, celle qui consiste à compter le nombre de 
 Votre script devra afficher, pour chacune des thèses ou mémoires que contient le CSV, ces trois variables dans un *print* qui dira quelque chose comme&nbsp;:
 
 *La {thèse ou mémoire} de {nom complet de l'auteur} compte {tant} de pages. Son titre est {ceci ou cela} ({tant} de caratères).»*
-*#####################################*
+<br>*#####################################*
 
 ###Si possible&nbsp;:
 
