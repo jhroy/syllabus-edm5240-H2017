@@ -14,8 +14,10 @@ De toutes les variables à calculer, celle qui consiste à compter le nombre de 
 * Dans certains cas, le nombre de pages est simple à compter. S'il est indiqué *«92 leaves : ill., photos. ; 29 cm. + 1 filmstrip (si., col.) + 24 slides (col.)»*, par exemple, cela signifie que le document compte 92 pages.
 * Dans la plupart des cas, par contre, il est indiqué quelque chose comme *«xix, 131 leaves : ill. (some col.) ; 29 cm.»*, ce qui signifie que le document compte 19 pages liminaires (exprimées en chiffres romains) auxquelles il faut ajouter le nombre après la virgule, pour un total de 150 pages.
 
-Votre script devra afficher, pour chacune des thèses ou mémoires que contient le CSV, ces trois variables dans un *print* qui dira quelque chose comme:
+Votre script devra afficher, pour chacune des thèses ou mémoires que contient le CSV, ces trois variables dans un *print* qui dira quelque chose comme&nbsp;:
+
 *La {thèse ou mémoire} de {nom complet de l'auteur} compte {tant} de pages. Son titre est {ceci ou cela} ({tant} de caratères).»*
+*#####################################*
 
 ###Si possible&nbsp;:
 
