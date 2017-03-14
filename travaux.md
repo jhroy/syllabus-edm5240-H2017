@@ -4,33 +4,33 @@
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
-##Abonnement à Cloud9
+## Abonnement à Cloud9
 Il suffit de me prouver que vous avez votre compte en vous rendant sur la page suivante ([https://ide.c9.io/jeanhuguesroy/edm5240-test](https://ide.c9.io/jeanhuguesroy/edm5240-test)) et de me faire signe en cliquant sur les mots **«&nbsp;_Request Access_&nbsp;»**, en haut, à droite de la page. Faites-le avant 23h59, le 23 janvier 2017.
 
 
-##Abonnement à Github
+## Abonnement à Github
 Pour me prouver que vous êtes abonnés, il vous suffira de faire une copie (*«&nbsp;fork&nbsp;»*) de mon répertoire (*«&nbsp;repo&nbsp;»*) **syllabus-edm5240-H2017**. Vous trouverez, bien entendu, mon répertoire sur mon compte Github. Mon pseudonyme est **jhroy**.
 
 ![](/assets/fork.png)
 
 Ne tardez pas trop. *«&nbsp;Forkez&nbsp;»* mon *«&nbsp;repo&nbsp;»* avant 23h59, le soir du cours  où je vous monterai comment faire, le 8 février 2017.
 
-##[Devoir 1](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir1.md)
+## [Devoir 1](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir1.md)
 Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (*«&nbsp;repo&nbsp;»*) que vous baptiserez **EDM5240-devoir-1**.
 
 Postez-le avant 23h59, le 13 février 2017.
 
-##[Devoir 2](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir2.md)
+## [Devoir 2](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir2.md)
 Vous devez déposer votre script (**devoir2.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-2**.
 
 Postez-le avant 23h59, le 20 février 2017.
 
-##Moissonnage de mi-session
+## Moissonnage de mi-session
 Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Github. Placez-le dans un *«&nbsp;repo&nbsp;»* que vous appellerez **EDM5240-moisson**.
 
 **Tombée**&nbsp;: avant 23h59 le 13 mars 2017.
 
-##Devoir 3
+## [Devoir 3](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir3.md)
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
 
 Postez-le avant 23h59, le 20 mars 2017.
