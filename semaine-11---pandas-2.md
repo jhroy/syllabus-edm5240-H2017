@@ -1,11 +1,19 @@
-# Cours 11 - Pandas 2
+# Cours 11 - Pandas
 ### 22 mars 2017
 -----
 
+![](assets/pandas_logo.png)
+
+Comme je l'indiquais un peu plus tôt, [pandas](http://pandas.pydata.org/) est une bibliothèque Python. En informatique, une bibliothèque est un module, un ajout, un «&nbsp;extra&nbsp;», en quelque sorte, qui vient permettre à un langage de faire des choses qu'il ne peut pas faire, à la base. Ce que pandas ajoute à Python est l'analyse des données.
+
+On va en voir toute la puissance en interrogeant des bases de données trop lourdes pour être analysées avec un tableur comme *Excel* ou *Calc*.
+
 ![](assets/logo-jupyter.png)
 
-On va aller plus loin dans pandas en l'utilisant **peut-être** avec ce qu'on appelle des [*«&nbsp;notebooks&nbsp;»* Jupyter](https://jupyter.org/). J'aime bien ces «&nbsp;cahiers&nbsp;» qui permettent de coder dans une fenêtre de navigateur, mais je ne sais pas encore s'il est facile de les utiliser avec Cloud9. Je n'ai pas eu le temps d'en faire l'essai avant de rédiger ce plan de cours. *À suire*, comme disait RBO. Et si ça ne fonctionne pas, on pourra continuer de s'amuser avec pandas dans Cloud9, comme la semaine précédente.
+On va se servir de pandas en utilisant ce qu'on appelle des [*«&nbsp;notebooks&nbsp;»* Jupyter](https://jupyter.org/). J'aime bien ces «&nbsp;cahiers&nbsp;» qui permettent de coder dans une fenêtre de navigateur. J'ai trouvé [une façon de faire en sorte qu'il puissent être utilisés avec Cloud9](https://gist.github.com/jhroy/628b9dfca4896571352e4f735c024583).
+
+À la fin du cours, je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée dans la section [travaux](travaux.md#devoir-3).
 
 -----
 
-#####Retour au [calendrier](/calendrier.md)
+##### Retour au [calendrier](/calendrier.md)

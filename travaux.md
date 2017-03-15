@@ -33,7 +33,7 @@ Vous devez déposer votre script (**moisson-_[SUJET]_.py**) dans votre compte Gi
 ## [Devoir 3](https://github.com/jhroy/syllabus-edm5240-H2017/blob/master/devoir3.md)
 Vous commencez à être de vieux routiers de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre script (**devoir3.py**) dans votre compte Github. Plus précisément, placez-le dans un *«&nbsp;repo&nbsp;»* que vous baptiserez **EDM5240-devoir-3**.
 
-Postez-le avant 23h59, le 20 mars 2017.
+Postez-le avant 23h59, le 27 mars 2017.
 
 ## Rendez-vous durant la semaine de tutorat
 
@@ -79,13 +79,14 @@ Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, l
 | Abonnement à Cloud9 | 2,5 |
 | Abonnement à Github | 2,5 |
 | Devoir #1 | 5 |
-| Devoir #2 | 5 |
-| Moissonnage de mi-session | 25 |
-| Devoir #3 | 5 |
+| Devoir #2 | 5 ou 10 (a) |
+| Moissonnage de mi-session | 20 |
+| Devoir #3 | 5 ou 10 (a) |
 | Rencontre pré-projet | 4|
 | Projet final | 36 |
 | *Making-of* | 15 |
 
+(a) : Les devoirs 2 et 3 valent 5 ou 10 points selon votre note&nbsp;: le devoir où vous aurez la meilleure note vaudra 10 points.
 -----
 
 # Mes critères d'évaluation

@@ -1,15 +1,12 @@
-# Cours 10 - Pandas 1
+# Cours 10 - Cours annulé en raison de la tempête de neige
 ### 15 mars 2017
 -----
 
-![](assets/pandas_logo.png)
+:snowflake: :snowman: :snowflake: 
 
-Comme je l'indiquais un peu plus tôt, [pandas](http://pandas.pydata.org/) est une bibliothèque Python. En informatique, une bibliothèque est un module, un ajout, un «&nbsp;extra&nbsp;», en quelque sorte, qui vient permettre à un langage de faire des choses qu'il ne peut pas faire, à la base. Ce que pandas ajoute à Python est l'analyse des données.
+_La matière prévue ce jour-là a été pelletée [la semaine suivante](semaine-11---pandas-2.md)_
 
-On va en voir toute la puissance en interrogeant des bases de données trop lourdes pour être analysées avec un tableur comme *Excel* ou *Calc*.
-
-À la fin du cours, je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée dans la section [travaux](travaux.md#devoir-3).
-
+:snowman: :snowflake: :snowman: 
 -----
 
-#####Retour au [calendrier](/calendrier.md)
+##### Retour au [calendrier](/calendrier.md)
