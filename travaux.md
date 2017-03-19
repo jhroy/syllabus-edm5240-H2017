@@ -86,7 +86,9 @@ Vous m'envoyez tout cela par courriel avant le début du dernier cours (14h00, l
 | Projet final | 36 |
 | *Making-of* | 15 |
 
+
 (a) : Les devoirs 2 et 3 valent 5 ou 10 points selon votre note&nbsp;: le devoir où vous aurez la meilleure note vaudra 10 points.
+
 -----
 
 # Mes critères d'évaluation
