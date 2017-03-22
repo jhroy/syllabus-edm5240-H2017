@@ -6,7 +6,7 @@
 
 ### Demandes d'accès à l'information au fédéral
 
-Vous vous intéressez aux demandes d'accès à l'information déposées auprès des différents ministères et agences du gouvernement fédéral. Quelque 28nbsp;000 demandes effectuées depuis 2015 sont regroupées dans [ce fichier CSV](http://open.canada.ca/vl/dataset/cab4eb87-d35e-4fda-bfbb-76d6d9a58abc/resource/ce9aa05b-e288-4de9-945c-dbb4e2ffa5b7/download/ati.csv).
+Vous vous intéressez aux demandes d'accès à l'information déposées auprès des différents ministères et agences du gouvernement fédéral. Quelque 28&nbsp;000 demandes effectuées depuis 2015 sont regroupées dans [ce fichier CSV](http://open.canada.ca/vl/dataset/cab4eb87-d35e-4fda-bfbb-76d6d9a58abc/resource/ce9aa05b-e288-4de9-945c-dbb4e2ffa5b7/download/ati.csv).
 
 Votre mission&nbsp;:
 
@@ -26,7 +26,7 @@ Nommez ce carnet **devoir3.ipynb**.
 
 Placez-le dans un nouveau répertoire (*«repo»*) que vous baptiserez **EDM5240-devoir-3**.
 
-Tombée : **20 mars 2017, 23h59**.
+Tombée : **27 mars 2017, 23h59**.
 
 Rappel : la procédure pour utiliser pandas dans Cloud9 est [décrite ici](https://gist.github.com/jhroy/628b9dfca4896571352e4f735c024583#file-pandas-sur-cloud9-md).
 
