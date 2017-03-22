@@ -16,7 +16,8 @@ Ce carnet devra&nbsp;:
 
 * Comprendre une cellule d'entête (*heading*) [0,5 point]
 
-* Lire le fichier CSV (vous pouvez le lire dans le web [en entrant son URL complet] ou le télécharger et le lire localement) [0,5 point]
+* Lire le fichier CSV (vous pouvez le lire dans le web [en entrant son URL complet] ou le télécharger et le lire localement) [0,5 point]<br>
+*Vous pouvez prendre un autre fichier CSV si vous le souhaitez*
 
 * Comprendre au moins **trois** cellules avec du code qui contiendront chacune au moins une commande permettant de nous apprendre quelque chose au sujet de ces données [à l'exclusion des commandes simples qui ne font que lire ces données, comme *.head()*, *.tail()*, ou *.describe()*, par exemple]. [3 points]
 
