@@ -14,6 +14,8 @@ On va se servir de pandas en utilisant ce qu'on appelle des [*«&nbsp;notebooks&
 
 À la fin du cours, je vous donnerai un dernier devoir, question de bien assimiler pandas. Tombée dans la section [travaux](travaux.md#devoir-3).
 
+La matière du cours a été résumée dans cet [amusant tutoriel](https://github.com/jhroy/tuto-pandas).
+
 -----
 
 ##### Retour au [calendrier](/calendrier.md)
