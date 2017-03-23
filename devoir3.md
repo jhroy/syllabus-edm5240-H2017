@@ -31,4 +31,6 @@ Tombée : **27 mars 2017, 23h59**.
 
 Rappel : la procédure pour utiliser pandas dans Cloud9 est [décrite ici](https://gist.github.com/jhroy/628b9dfca4896571352e4f735c024583#file-pandas-sur-cloud9-md).
 
+Et, en prime, je vous ai mitonné un [savoureux tutoriel](https://github.com/jhroy/tuto-pandas) qui reprend à quelques détails près la matière couverte par le cours du 22 mars.
+
 Bonne chance à tous!
